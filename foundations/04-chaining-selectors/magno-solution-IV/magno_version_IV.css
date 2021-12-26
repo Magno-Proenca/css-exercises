@@ -1,0 +1,9 @@
+.foto.proporcional{
+    height: auto;
+    width: 300px;
+}
+
+.foto.desproporcional{
+    height: 400px;
+    width: 200px;
+}
